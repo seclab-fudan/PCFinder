@@ -1,0 +1,2529 @@
+[
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxAuthController.java:67",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallUserService.java:79",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxAuthController.java:70",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminRoleController.java:128",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallRoleService.java:68",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminRoleController.java:139",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxGrouponController.java:85",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallOrderGoodsService.java:26",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxGrouponController.java:105",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxGrouponController.java:85",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallGrouponService.java:80",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxGrouponController.java:86",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxCartController.java:113",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallGoodsService.java:162",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxCartController.java:114",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxCartController.java:187",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallGoodsService.java:162",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxCartController.java:188",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxFootprintController.java:45",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallFootprintService.java:28",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxFootprintController.java:46",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxCouponController.java:57",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallCouponUserService.java:60",
+        "Permission Check": "org/linlinjava/litemall/db/service/LitemallCouponUserService.java:41",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxCollectController.java:108",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallCollectService.java:56",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxCollectController.java:109",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxCollectController.java:59",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallCollectService.java:25",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxCollectController.java:65",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxCartController.java:257",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallCartService.java:57",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxCartController.java:258",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxCartController.java:56",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallCartService.java:40",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxCartController.java:57",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/wx/web/WxAftersaleController.java:172",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAftersaleService.java:29",
+        "Permission Check": "org/linlinjava/litemall/wx/web/WxAftersaleController.java:173",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminAdminController.java:68",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAdminService.java:60",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminAdminController.java:55",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminAdminController.java:125",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAdminService.java:54",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminAdminController.java:134",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminAdminController.java:100",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAdminService.java:50",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminAdminController.java:107",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminAuthController.java:88",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAdminService.java:50",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminAuthController.java:94",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminProfileController.java:49",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAdminService.java:50",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminProfileController.java:52",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminProfileController.java:55",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAdminService.java:50",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminProfileController.java:55",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminAdminController.java:68",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAdminService.java:24",
+        "Permission Check": "org/linlinjava/litemall/admin/web/AdminAdminController.java:59",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/admin/web/AdminAddressController.java:36",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAddressService.java:78",
+        "Permission Check": "org/linlinjava/litemall/db/service/LitemallAddressService.java:65",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "litemall",
+        "Path Entry": "org/linlinjava/litemall/db/service/LitemallAddressService.java:61",
+        "Privileged Operation": "org/linlinjava/litemall/db/service/LitemallAddressService.java:22",
+        "Permission Check": "org/linlinjava/litemall/db/service/LitemallAddressService.java:65",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "youlai-mall",
+        "Path Entry": "com/youlai/system/controller/SysUserController.java:53",
+        "Privileged Operation": "com/youlai/system/service/impl/SysUserServiceImpl.java:91",
+        "Permission Check": "com/youlai/auth/oauth2/extension/password/PasswordAuthenticationConverter.java:73",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "youlai-mall",
+        "Path Entry": "com/youlai/system/controller/SysMenuController.java:40",
+        "Privileged Operation": "com/youlai/system/service/impl/SysMenuServiceImpl.java:53",
+        "Permission Check": "com/youlai/auth/oauth2/extension/password/PasswordAuthenticationConverter.java:73",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "youlai-mall",
+        "Path Entry": "com/youlai/mall/sms/controller/admin/SmsCouponController.java:42",
+        "Privileged Operation": "com/youlai/mall/sms/service/impl/SmsCouponServiceImpl.java:109",
+        "Permission Check": "com/youlai/auth/oauth2/extension/password/PasswordAuthenticationConverter.java:73",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "youlai-mall",
+        "Path Entry": "com/youlai/mall/oms/controller/app/OrderController.java:65",
+        "Privileged Operation": "com/youlai/mall/oms/service/app/impl/OrderServiceImpl.java:399",
+        "Permission Check": "com/youlai/auth/oauth2/extension/password/PasswordAuthenticationConverter.java:73",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "youlai-mall",
+        "Path Entry": "com/youlai/mall/oms/controller/app/OrderController.java:58",
+        "Privileged Operation": "com/youlai/mall/oms/service/app/impl/OrderServiceImpl.java:260",
+        "Permission Check": "com/youlai/auth/oauth2/extension/password/PasswordAuthenticationConverter.java:73",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "youlai-mall",
+        "Path Entry": "com/youlai/mall/oms/controller/app/OrderController.java:51",
+        "Privileged Operation": "com/youlai/mall/oms/service/app/impl/OrderServiceImpl.java:215",
+        "Permission Check": "com/youlai/auth/oauth2/extension/password/PasswordAuthenticationConverter.java:73",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "youlai-mall",
+        "Path Entry": "com/youlai/mall/oms/controller/admin/OmsOrderController.java:45",
+        "Privileged Operation": "com/youlai/mall/oms/service/admin/impl/OmsOrderServiceImpl.java:41",
+        "Permission Check": "com/youlai/auth/oauth2/extension/password/PasswordAuthenticationConverter.java:73",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel",
+        "Path Entry": "io/github/xxyopen/novel/controller/author/AuthorController.java:86",
+        "Privileged Operation": "io/github/xxyopen/novel/service/impl/BookServiceImpl.java:346",
+        "Permission Check": "io/github/xxyopen/novel/core/interceptor/AuthInterceptor.java:55",
+        "Type": "Third-Party-Check"
+    },
+    {
+        "Project": "novel",
+        "Path Entry": "io/github/xxyopen/novel/controller/front/BookController.java:73",
+        "Privileged Operation": "io/github/xxyopen/novel/service/impl/BookServiceImpl.java:109",
+        "Permission Check": "io/github/xxyopen/novel/core/interceptor/AuthInterceptor.java:55",
+        "Type": "Third-Party-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/user/controller/UserController.java:109",
+        "Privileged Operation": "com/supermarket/user/service/UserServiceImpl.java:86",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/product/controller/ProductController.java:60",
+        "Privileged Operation": "com/supermarket/product/service/ProductServiceImpl.java:49",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/product/controller/ProductController.java:43",
+        "Privileged Operation": "com/supermarket/product/service/ProductServiceImpl.java:34",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/order/controller/OrderController.java:74",
+        "Privileged Operation": "com/supermarket/order/service/OrderServiceImpl.java:79",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/order/controller/OrderController.java:74",
+        "Privileged Operation": "com/supermarket/order/service/OrderServiceImpl.java:76",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/order/controller/OrderController.java:59",
+        "Privileged Operation": "com/supermarket/order/service/OrderServiceImpl.java:66",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/order/controller/OrderController.java:59",
+        "Privileged Operation": "com/supermarket/order/service/OrderServiceImpl.java:62",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/order/controller/OrderController.java:36",
+        "Privileged Operation": "com/supermarket/order/service/OrderServiceImpl.java:49",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/instantbuy/controller/InstantBuyController.java:71",
+        "Privileged Operation": "com/supermarket/instantbuy/service/InstantBuyServiceImpl.java:47",
+        "Permission Check": "com/supermarket/instantbuy/controller/InstantBuyController.java:75",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/instantbuy/controller/InstantBuyController.java:71",
+        "Privileged Operation": "com/supermarket/instantbuy/service/InstantBuyServiceImpl.java:47",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/instantbuy/controller/InstantBuyController.java:51",
+        "Privileged Operation": "com/supermarket/instantbuy/service/InstantBuyServiceImpl.java:37",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "SuperMarket",
+        "Path Entry": "com/supermarket/instantbuy/controller/InstantBuyController.java:37",
+        "Privileged Operation": "com/supermarket/instantbuy/service/InstantBuyServiceImpl.java:32",
+        "Permission Check": "com/supermarket/user/aspect/LoginAspect.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/UserController.java:57",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rpc/service/PermissionService.java:255",
+        "Permission Check": "com/github/wxiaoqi/security/modules/admin/rpc/service/PermissionService.java:252",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/UserController.java:50",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rpc/service/PermissionService.java:159",
+        "Permission Check": "com/github/wxiaoqi/security/modules/admin/rpc/service/PermissionService.java:156",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/MenuController.java:68",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rest/MenuController.java:81",
+        "Permission Check": "com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.java:46",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/MenuController.java:48",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rest/MenuController.java:53",
+        "Permission Check": "com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.java:46",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/MenuController.java:38",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rest/MenuController.java:43",
+        "Permission Check": "com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.java:46",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/GroupController.java:36",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rest/GroupController.java:54",
+        "Permission Check": "com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.java:46",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/GroupController.java:109",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rest/GroupController.java:120",
+        "Permission Check": "com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.java:46",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/GateLogController.java:24",
+        "Privileged Operation": "com/github/wxiaoqi/security/modules/admin/rest/GateLogController.java:34",
+        "Permission Check": "com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.java:46",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "Spring-Cloud-Platform",
+        "Path Entry": "com/github/wxiaoqi/security/modules/admin/rest/ElementController.java:34",
+        "Privileged Operation": "com/github/wxiaoqi/security/common/biz/BaseBiz.java:90",
+        "Permission Check": "com/github/wxiaoqi/security/modules/admin/rest/ElementController.java:38",
+        "Type": "SQL-Check"
+    },
+    {
+        "Project": "newbee-mall-plus",
+        "Path Entry": "ltd/newbee/mall/controller/mall/PersonalController.java:72",
+        "Privileged Operation": "ltd/newbee/mall/service/impl/NewBeeMallUserServiceImpl.java:77",
+        "Permission Check": "ltd/newbee/mall/service/impl/NewBeeMallUserServiceImpl.java:78",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "newbee-mall-plus",
+        "Path Entry": "ltd/newbee/mall/controller/mall/PersonalController.java:134",
+        "Privileged Operation": "ltd/newbee/mall/service/impl/NewBeeMallUserServiceImpl.java:124",
+        "Permission Check": "ltd/newbee/mall/service/impl/NewBeeMallUserServiceImpl.java:100",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "newbee-mall-plus",
+        "Path Entry": "ltd/newbee/mall/controller/mall/CouponController.java:28",
+        "Privileged Operation": "ltd/newbee/mall/service/impl/NewBeeMallCouponServiceImpl.java:73",
+        "Permission Check": "ltd/newbee/mall/service/impl/NewBeeMallCouponServiceImpl.java:72",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/customer/api/OauthController.java:74",
+        "Privileged Operation": "com/d2c/shop/service/modules/member/service/impl/OauthServiceImpl.java:40",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/customer/api/OauthController.java:99",
+        "Privileged Operation": "com/d2c/shop/service/modules/member/service/impl/OauthServiceImpl.java:27",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/customer/api/MemberController.java:177",
+        "Privileged Operation": "com/d2c/shop/service/modules/member/service/impl/MemberServiceImpl.java:69",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/security/RoleMenuController.java:42",
+        "Privileged Operation": "com/d2c/shop/admin/api/security/RoleMenuController.java:43",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/security/RoleController.java:46",
+        "Privileged Operation": "com/d2c/shop/admin/api/security/RoleController.java:52",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/security/RoleController.java:46",
+        "Privileged Operation": "com/d2c/shop/admin/api/security/RoleController.java:49",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/security/MenuController.java:87",
+        "Privileged Operation": "com/d2c/shop/admin/api/security/MenuController.java:93",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/security/MenuController.java:87",
+        "Privileged Operation": "com/d2c/shop/admin/api/security/MenuController.java:90",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/base/BaseCtrl.java:62",
+        "Privileged Operation": "com/d2c/shop/admin/api/base/BaseCtrl.java:63",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/base/BaseCtrl.java:54",
+        "Privileged Operation": "com/d2c/shop/admin/api/base/BaseCtrl.java:57",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/base/BaseCtrl.java:54",
+        "Privileged Operation": "com/d2c/shop/admin/api/base/BaseCtrl.java:56",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/base/BaseCtrl.java:46",
+        "Privileged Operation": "com/d2c/shop/admin/api/base/BaseCtrl.java:47",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "shop-mall",
+        "Path Entry": "com/d2c/shop/admin/api/base/BaseCtrl.java:38",
+        "Privileged Operation": "com/d2c/shop/admin/api/base/BaseCtrl.java:40",
+        "Permission Check": "com/d2c/shop/admin/config/security/authorization/MyAccessDecisionManager.java:31",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "newbee-mall",
+        "Path Entry": "ltd/newbee/mall/controller/admin/AdminController.java:100",
+        "Privileged Operation": "ltd/newbee/mall/service/impl/AdminUserServiceImpl.java:47",
+        "Permission Check": "ltd/newbee/mall/service/impl/AdminUserServiceImpl.java:40",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "opsli-boot",
+        "Path Entry": "org/opsli/modulars/system/user/web/UserRoleRefRestController.java:133",
+        "Privileged Operation": "org/opsli/modulars/system/user/service/impl/UserRoleRefServiceImpl.java:97",
+        "Permission Check": "org/opsli/core/security/filter/JwtAuthenticationTokenFilter.java:57",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "opsli-boot",
+        "Path Entry": "org/opsli/modulars/system/user/web/UserRoleRefRestController.java:121",
+        "Privileged Operation": "org/opsli/modulars/system/user/service/impl/UserRoleRefServiceImpl.java:294",
+        "Permission Check": "org/opsli/core/security/filter/JwtAuthenticationTokenFilter.java:57",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "opsli-boot",
+        "Path Entry": "org/opsli/modulars/system/menu/web/MenuRestController.java:100",
+        "Privileged Operation": "org/opsli/modulars/system/user/service/impl/UserRoleRefServiceImpl.java:169",
+        "Permission Check": "org/opsli/core/security/filter/JwtAuthenticationTokenFilter.java:57",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "opsli-boot",
+        "Path Entry": "org/opsli/modulars/system/user/web/UserRoleRefRestController.java:146",
+        "Privileged Operation": "org/opsli/modulars/system/user/service/impl/UserRoleRefServiceImpl.java:148",
+        "Permission Check": "org/opsli/core/security/filter/JwtAuthenticationTokenFilter.java:57",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "my-shop",
+        "Path Entry": "com/fengdu/controller/SysMenuController.java:158",
+        "Privileged Operation": "com/fengdu/service/impl/SysUserServiceImpl.java:51",
+        "Permission Check": "com/fengdu/service/impl/SysMenuServiceImpl.java:52",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "my-shop",
+        "Path Entry": "com/fengdu/controller/SysUserController.java:115",
+        "Privileged Operation": "com/fengdu/service/impl/SysRoleServiceImpl.java:95",
+        "Permission Check": "com/fengdu/service/impl/SysUserServiceImpl.java:126",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "my-shop",
+        "Path Entry": "com/fengdu/controller/SysRoleController.java:132",
+        "Privileged Operation": "com/fengdu/service/impl/SysRoleServiceImpl.java:90",
+        "Permission Check": "com/fengdu/shiro/UserRealm.java:86",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "my-shop",
+        "Path Entry": "com/fengdu/api/ApiFootprintController.java:33",
+        "Privileged Operation": "com/fengdu/service/ApiFootprintService.java:52",
+        "Permission Check": "com/fengdu/api/ApiFootprintController.java:40",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "my-shop",
+        "Path Entry": "com/fengdu/api/ApiCommentController.java:46",
+        "Privileged Operation": "com/fengdu/service/ApiCouponService.java:52",
+        "Permission Check": "com/fengdu/api/ApiCommentController.java:84",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/front/controller/MemberController.java:72",
+        "Privileged Operation": "cn/exrick/sso/service/impl/LoginServiceImpl.java:40",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/front/controller/GoodsController.java:83",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:284",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/front/controller/GoodsController.java:41",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:201",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/front/controller/GoodsController.java:41",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:198",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/front/controller/GoodsController.java:41",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:191",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/manager/controller/ContentController.java:45",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:159",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/manager/controller/ContentController.java:45",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:144",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/manager/controller/ContentController.java:53",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:117",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/manager/controller/ContentController.java:29",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:103",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "xmall",
+        "Path Entry": "cn/exrick/manager/controller/ContentController.java:29",
+        "Privileged Operation": "cn/exrick/content/service/impl/ContentServiceImpl.java:100",
+        "Permission Check": "cn/exrick/manager/dto/DtoUtil.java:27",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog-layui",
+        "Path Entry": "com/site/blog/controller/admin/AdminController.java:181",
+        "Privileged Operation": "com/site/blog/service/impl/AdminUserServiceImpl.java:50",
+        "Permission Check": "com/site/blog/controller/admin/AdminController.java:192",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "My-Blog-layui",
+        "Path Entry": "com/site/blog/controller/admin/AdminController.java:132",
+        "Privileged Operation": "com/site/blog/service/impl/AdminUserServiceImpl.java:43",
+        "Permission Check": "com/site/blog/controller/admin/AdminController.java:135",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/CommentController.java:54",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/CommentServiceImpl.java:52",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/CategoryController.java:74",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/CategoryServiceImpl.java:51",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/BlogController.java:83",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:43",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/blog/MyBlogController.java:273",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:319",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/blog/MyBlogController.java:94",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:315",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/blog/MyBlogController.java:94",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:222",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:123",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:134",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/BlogController.java:134",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:124",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/BlogController.java:70",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/BlogServiceImpl.java:118",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/AdminController.java:119",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:49",
+        "Permission Check": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:52",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/AdminController.java:119",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:49",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/AdminController.java:100",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:39",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/AdminController.java:100",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:30",
+        "Permission Check": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:32",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/AdminController.java:86",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:25",
+        "Permission Check": "com/site/blog/my/core/interceptor/AdminLoginInterceptor.java:24",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "My-Blog",
+        "Path Entry": "com/site/blog/my/core/controller/admin/AdminController.java:55",
+        "Privileged Operation": "com/site/blog/my/core/service/impl/AdminUserServiceImpl.java:20",
+        "Permission Check": "com/site/blog/my/core/controller/admin/AdminController.java:73",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/system/controller/SysUserController.java:232",
+        "Privileged Operation": "com/java2nb/system/service/impl/SysUserServiceImpl.java:246",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/system/controller/SysUserController.java:210",
+        "Privileged Operation": "com/java2nb/system/service/impl/SysUserServiceImpl.java:173",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/novel/controller/StatController.java:63",
+        "Privileged Operation": "com/java2nb/novel/service/impl/UserServiceImpl.java:60",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/novel/controller/UserController.java:243",
+        "Privileged Operation": "com/java2nb/novel/service/impl/UserServiceImpl.java:262",
+        "Permission Check": "com/java2nb/novel/controller/UserController.java:246",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/novel/controller/UserController.java:260",
+        "Privileged Operation": "com/java2nb/novel/service/impl/BookServiceImpl.java:392",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/novel/controller/page/PageController.java:52",
+        "Privileged Operation": "com/java2nb/novel/service/impl/AuthorServiceImpl.java:77",
+        "Permission Check": "com/java2nb/novel/controller/page/PageController.java:58",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/FileController.java:53",
+        "Privileged Operation": "com/java2nb/common/service/impl/FileServiceImpl.java:38",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/FileController.java:53",
+        "Privileged Operation": "com/java2nb/common/service/impl/FileServiceImpl.java:33",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/FileController.java:70",
+        "Privileged Operation": "com/java2nb/common/service/impl/FileServiceImpl.java:28",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/system/controller/SysUserController.java:222",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:78",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/DictController.java:126",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:62",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/DictController.java:116",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:56",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/DictController.java:100",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:51",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/DictController.java:86",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:46",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/DictController.java:70",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:41",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/common/controller/DictController.java:41",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:36",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "novel-plus",
+        "Path Entry": "com/java2nb/system/controller/SysUserController.java:222",
+        "Privileged Operation": "com/java2nb/common/service/impl/DictServiceImpl.java:100",
+        "Permission Check": "com/java2nb/system/shiro/UserRealm.java:54",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "MMall",
+        "Path Entry": "com/njupt/swg/controller/UserController.java:54",
+        "Privileged Operation": "com/njupt/swg/service/UserServiceImpl.java:46",
+        "Permission Check": "com/njupt/swg/service/UserServiceImpl.java:42",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "MMall",
+        "Path Entry": "com/njupt/swg/controller/UserController.java:178",
+        "Privileged Operation": "com/njupt/swg/service/UserServiceImpl.java:243",
+        "Permission Check": "com/njupt/swg/service/UserServiceImpl.java:238",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "MMall",
+        "Path Entry": "com/njupt/swg/controller/UserController.java:178",
+        "Privileged Operation": "com/njupt/swg/service/UserServiceImpl.java:232",
+        "Permission Check": "com/njupt/swg/service/UserServiceImpl.java:229",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "MMall",
+        "Path Entry": "com/njupt/swg/controller/UserController.java:163",
+        "Privileged Operation": "com/njupt/swg/service/UserServiceImpl.java:219",
+        "Permission Check": "com/njupt/swg/service/UserServiceImpl.java:214",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "MMall",
+        "Path Entry": "com/njupt/swg/controller/UserController.java:163",
+        "Privileged Operation": "com/njupt/swg/service/UserServiceImpl.java:199",
+        "Permission Check": "com/njupt/swg/service/UserServiceImpl.java:195",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "MMall",
+        "Path Entry": "com/njupt/swg/controller/UserController.java:76",
+        "Privileged Operation": "com/njupt/swg/service/UserServiceImpl.java:104",
+        "Permission Check": "com/njupt/swg/service/UserServiceImpl.java:76",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/web/restapi/LoginRestApi.java:78",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/WebConfigServiceImpl.java:232",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/CommentRestApi.java:46",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/CommentServiceImpl.java:130",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/CategoryMenuRestApi.java:102",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/CategoryMenuServiceImpl.java:316",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/CategoryMenuRestApi.java:86",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/CategoryMenuServiceImpl.java:301",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/CategoryMenuRestApi.java:76",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/CategoryMenuServiceImpl.java:278",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/BlogSortRestApi.java:59",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/BlogSortServiceImpl.java:80",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/BlogSortRestApi.java:94",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/BlogSortServiceImpl.java:164",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/BlogSortRestApi.java:94",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/BlogSortServiceImpl.java:156",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/BlogSortRestApi.java:71",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/BlogSortServiceImpl.java:104",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/BlogRestApi.java:80",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/BlogServiceImpl.java:759",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/BlogRestApi.java:60",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/BlogServiceImpl.java:707",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/BlogRestApi.java:49",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/BlogServiceImpl.java:609",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/AdminRestApi.java:51",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/AdminServiceImpl.java:409",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/AdminRestApi.java:71",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/AdminServiceImpl.java:324",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/AdminRestApi.java:61",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/AdminServiceImpl.java:293",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mogu_blog_v2",
+        "Path Entry": "com/moxi/mogublog/admin/restapi/AdminRestApi.java:41",
+        "Privileged Operation": "com/moxi/mogublog/xo/service/impl/AdminServiceImpl.java:222",
+        "Permission Check": "com/moxi/mogublog/utils/CookieUtils.java:47",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/admin/controller/AdminLoginController.java:73",
+        "Privileged Operation": "com/yami/shop/sys/service/impl/SysUserServiceImpl.java:92",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/sys/controller/SysUserController.java:148",
+        "Privileged Operation": "com/yami/shop/sys/service/impl/SysUserServiceImpl.java:88",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/admin/controller/AdminLoginController.java:73",
+        "Privileged Operation": "com/yami/shop/sys/service/impl/SysUserServiceImpl.java:82",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/sys/controller/SysUserController.java:185",
+        "Privileged Operation": "com/yami/shop/sys/service/impl/SysUserServiceImpl.java:77",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/sys/controller/SysUserController.java:85",
+        "Privileged Operation": "com/yami/shop/sys/service/impl/SysUserServiceImpl.java:73",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/admin/controller/ProductController.java:122",
+        "Privileged Operation": "com/yami/shop/service/impl/SkuServiceImpl.java:39",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/admin/controller/ProductController.java:122",
+        "Privileged Operation": "com/yami/shop/service/impl/SkuServiceImpl.java:39",
+        "Permission Check": "com/yami/shop/admin/controller/ProductController.java:125",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/admin/controller/ProductController.java:185",
+        "Privileged Operation": "com/yami/shop/service/impl/ProductServiceImpl.java:131",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/admin/controller/ProductController.java:83",
+        "Privileged Operation": "com/yami/shop/service/impl/ProdTagReferenceServiceImpl.java:37",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall4j",
+        "Path Entry": "com/yami/shop/admin/controller/AreaController.java:74",
+        "Privileged Operation": "com/yami/shop/admin/controller/AreaController.java:75",
+        "Permission Check": "com/yami/shop/security/common/permission/PermissionService.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackUserController.java:122",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:91",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/AdminController.java:100",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:86",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/AdminController.java:100",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:81",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackUserController.java:54",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:75",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackUserController.java:141",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:62",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackUserController.java:141",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:60",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackUserController.java:171",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:53",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/AdminController.java:203",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:48",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackUserController.java:37",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:40",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackUserController.java:37",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/UserServiceImpl.java:38",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackTagController.java:65",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:99",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackTagController.java:101",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:88",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackTagController.java:53",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:77",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/TagController.java:39",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:67",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackTagController.java:80",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:52",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackTagController.java:35",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:50",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:38",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/CategoryController.java:49",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:38",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/IndexController.java:45",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:38",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/TagController.java:39",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:38",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackTagController.java:65",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/TagServiceImpl.java:100",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackPageController.java:114",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/PageServiceImpl.java:50",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackPageController.java:82",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/PageServiceImpl.java:45",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackPageController.java:49",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/PageServiceImpl.java:40",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackPageController.java:34",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/PageServiceImpl.java:34",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackPageController.java:96",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/PageServiceImpl.java:29",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/PageController.java:49",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/PageServiceImpl.java:24",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackOptionsController.java:60",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/OptionsServiceImpl.java:38",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackOptionsController.java:60",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/OptionsServiceImpl.java:32",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackOptionsController.java:29",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/OptionsServiceImpl.java:26",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackNoticeController.java:84",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/NoticeServiceImpl.java:43",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackNoticeController.java:98",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/NoticeServiceImpl.java:38",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackNoticeController.java:71",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/NoticeServiceImpl.java:33",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackNoticeController.java:44",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/NoticeServiceImpl.java:28",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackNoticeController.java:31",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/NoticeServiceImpl.java:23",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackMenuController.java:72",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/MenuServiceImpl.java:46",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackMenuController.java:93",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/MenuServiceImpl.java:41",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackMenuController.java:60",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/MenuServiceImpl.java:36",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackMenuController.java:45",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/MenuServiceImpl.java:30",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackMenuController.java:32",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/MenuServiceImpl.java:24",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/LinkServiceImpl.java:49",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/LinkServiceImpl.java:50",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackLinkController.java:116",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/LinkServiceImpl.java:45",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackLinkController.java:82",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/LinkServiceImpl.java:40",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/LinkController.java:43",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/LinkServiceImpl.java:35",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/LinkController.java:43",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/LinkServiceImpl.java:30",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackLinkController.java:33",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/LinkServiceImpl.java:25",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:74",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:94",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:74",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:92",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:74",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:90",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:48",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:75",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:48",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:73",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:116",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:60",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:48",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/CommentController.java:45",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:37",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:116",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:157",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/AdminController.java:52",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:143",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/AdminController.java:52",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:141",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:94",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:118",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/CommentController.java:45",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:118",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:116",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CommentServiceImpl.java:108",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:165",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:96",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/PageController.java:87",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:96",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:57",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:70",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:106",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:60",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/CategoryController.java:49",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:49",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:69",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:37",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:69",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:36",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:40",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:110",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:40",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:108",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:86",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/CategoryServiceImpl.java:108",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCategoryController.java:69",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:87",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/PageController.java:87",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:281",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:277",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:272",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:264",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackCommentController.java:94",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:253",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:94",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:247",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:250",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:242",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:250",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:242",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:254",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:94",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:242",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:94",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:238",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:218",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:213",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:208",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:203",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:51",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:198",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/CommentController.java:45",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:189",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/CommentController.java:45",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:188",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/CommentController.java:45",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:186",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:50",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:174",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:50",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:169",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:50",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:166",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:144",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:157",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:144",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:155",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:144",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:153",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:144",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:151",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/home/ArticleController.java:109",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:141",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "ForestBlog",
+        "Path Entry": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/controller/admin/BackArticleController.java:196",
+        "Privileged Operation": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/service/impl/ArticleServiceImpl.java:129",
+        "Permission Check": "ForestBlog/src/main/java/com/liuyanzhao/ssm/blog/interceptor/AdminInterceptor.java:29",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "dts-shop",
+        "Path Entry": "dts-wx-api/src/main/java/com/qiguliuxing/dts/wx/web/WxBrokerageController.java:133",
+        "Privileged Operation": "dts-wx-api/src/main/java/com/qiguliuxing/dts/wx/service/WxOrderService.java:1337",
+        "Permission Check": "dts-admin-api/src/main/java/com/qiguliuxing/dts/admin/util/PermissionUtil.java:112",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "dts-shop",
+        "Path Entry": "dts-admin-api/src/main/java/com/qiguliuxing/dts/admin/web/AdminAdminController.java:50",
+        "Privileged Operation": "dts-dao/src/main/java/com/qiguliuxing/dts/db/service/DtsAdminService.java:46",
+        "Permission Check": "dts-admin-api/src/main/java/com/qiguliuxing/dts/admin/util/PermissionUtil.java:112",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "dts-shop",
+        "Path Entry": "dts-wx-api/src/main/java/com/qiguliuxing/dts/wx/web/WxUserController.java:96",
+        "Privileged Operation": "dts-dao/src/main/java/com/qiguliuxing/dts/db/service/DtsAccountService.java:229",
+        "Permission Check": "dts-admin-api/src/main/java/com/qiguliuxing/dts/admin/util/PermissionUtil.java:112",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "dts-shop",
+        "Path Entry": "dts-wx-api/src/main/java/com/qiguliuxing/dts/wx/web/WxBrokerageController.java:147",
+        "Privileged Operation": "dts-dao/src/main/java/com/qiguliuxing/dts/db/service/DtsAccountService.java:223",
+        "Permission Check": "dts-admin-api/src/main/java/com/qiguliuxing/dts/admin/util/PermissionUtil.java:112",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "dts-shop",
+        "Path Entry": "dts-wx-api/src/main/java/com/qiguliuxing/dts/wx/web/WxBrokerageController.java:133",
+        "Privileged Operation": "dts-dao/src/main/java/com/qiguliuxing/dts/db/service/DtsAccountService.java:197",
+        "Permission Check": "dts-admin-api/src/main/java/com/qiguliuxing/dts/admin/util/PermissionUtil.java:112",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "dts-shop",
+        "Path Entry": "dts-wx-api/src/main/java/com/qiguliuxing/dts/wx/web/WxBrokerageController.java:127",
+        "Privileged Operation": "dts-dao/src/main/java/com/qiguliuxing/dts/db/service/DtsAccountService.java:188",
+        "Permission Check": "dts-admin-api/src/main/java/com/qiguliuxing/dts/admin/util/PermissionUtil.java:112",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:60",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:96",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:119",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:65",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:49",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:55",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:71",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:202",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:85",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:185",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:85",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:182",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:71",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:166",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:110",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:134",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "DimpleBlog",
+        "Path Entry": "com/dimple/system/web/controller/SysDictTypeController.java:99",
+        "Privileged Operation": "com/dimple/system/service/service/impl/SysDictTypeServiceImpl.java:122",
+        "Permission Check": "com/dimple/common/security/aspect/PreAuthorizeAspect.java:83",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:135",
+        "Privileged Operation": "com/fc/service/UserService.java:82",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/IndexController.java:44",
+        "Privileged Operation": "com/fc/service/UserService.java:78",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:54",
+        "Privileged Operation": "com/fc/service/UserService.java:78",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/IndexController.java:44",
+        "Privileged Operation": "com/fc/service/UserService.java:74",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/IndexController.java:44",
+        "Privileged Operation": "com/fc/service/UserService.java:70",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:99",
+        "Privileged Operation": "com/fc/service/UserService.java:62",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:86",
+        "Privileged Operation": "com/fc/service/UserService.java:58",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:42",
+        "Privileged Operation": "com/fc/service/UserService.java:39",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:59",
+        "Privileged Operation": "com/fc/service/UserService.java:39",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:59",
+        "Privileged Operation": "com/fc/service/UserService.java:39",
+        "Permission Check": "com/fc/controller/UserController.java:62",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:42",
+        "Privileged Operation": "com/fc/service/UserService.java:36",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:42",
+        "Privileged Operation": "com/fc/service/UserService.java:36",
+        "Permission Check": "com/fc/service/UserService.java:35",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:59",
+        "Privileged Operation": "com/fc/service/UserService.java:36",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:107",
+        "Privileged Operation": "com/fc/service/UserService.java:132",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:107",
+        "Privileged Operation": "com/fc/service/UserService.java:119",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:107",
+        "Privileged Operation": "com/fc/service/UserService.java:119",
+        "Permission Check": "com/fc/service/UserService.java:120",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/TopicController.java:35",
+        "Privileged Operation": "com/fc/service/TopicService.java:26",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:38",
+        "Privileged Operation": "com/fc/service/TopicService.java:22",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/TopicController.java:28",
+        "Privileged Operation": "com/fc/service/TopicService.java:22",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:66",
+        "Privileged Operation": "com/fc/service/ReplyService.java:79",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:66",
+        "Privileged Operation": "com/fc/service/ReplyService.java:76",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/ReplyController.java:29",
+        "Privileged Operation": "com/fc/service/ReplyService.java:67",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/ReplyController.java:29",
+        "Privileged Operation": "com/fc/service/ReplyService.java:65",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/ReplyController.java:22",
+        "Privileged Operation": "com/fc/service/ReplyService.java:49",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/ReplyController.java:22",
+        "Privileged Operation": "com/fc/service/ReplyService.java:47",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/ReplyController.java:22",
+        "Privileged Operation": "com/fc/service/ReplyService.java:45",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:66",
+        "Privileged Operation": "com/fc/service/PostService.java:99",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/IndexController.java:44",
+        "Privileged Operation": "com/fc/service/PostService.java:81",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:54",
+        "Privileged Operation": "com/fc/service/PostService.java:81",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/IndexController.java:44",
+        "Privileged Operation": "com/fc/service/PostService.java:71",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:46",
+        "Privileged Operation": "com/fc/service/PostService.java:60",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:46",
+        "Privileged Operation": "com/fc/service/PostService.java:57",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:42",
+        "Privileged Operation": "com/fc/service/PostService.java:45",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/UserController.java:59",
+        "Privileged Operation": "com/fc/service/PostService.java:45",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:66",
+        "Privileged Operation": "com/fc/service/PostService.java:100",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/PostController.java:66",
+        "Privileged Operation": "com/fc/service/PostService.java:100",
+        "Permission Check": "com/fc/controller/PostController.java:76",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/MessageController.java:25",
+        "Privileged Operation": "com/fc/service/MessageService.java:25",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:62",
+        "Privileged Operation": "com/fc/service/LoginService.java:96",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:62",
+        "Privileged Operation": "com/fc/service/LoginService.java:96",
+        "Permission Check": "com/fc/service/LoginService.java:90",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:62",
+        "Privileged Operation": "com/fc/service/LoginService.java:89",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:62",
+        "Privileged Operation": "com/fc/service/LoginService.java:89",
+        "Permission Check": "com/fc/service/LoginService.java:83",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:62",
+        "Privileged Operation": "com/fc/service/LoginService.java:82",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:40",
+        "Privileged Operation": "com/fc/service/LoginService.java:71",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:40",
+        "Privileged Operation": "com/fc/service/LoginService.java:54",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "forum",
+        "Path Entry": "com/fc/controller/LoginController.java:83",
+        "Privileged Operation": "com/fc/service/LoginService.java:105",
+        "Permission Check": "com/fc/interceptor/LoginInterceptor.java:33",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/UmsAdminController.java:148",
+        "Privileged Operation": "com/macro/mall/service/impl/UmsAdminServiceImpl.java:259",
+        "Permission Check": "com/macro/mall/service/impl/UmsAdminServiceImpl.java:255",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderController.java:42",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderServiceImpl.java:44",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderController.java:32",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderServiceImpl.java:38",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnReasonController.java:73",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.java:63",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnReasonController.java:81",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.java:58",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnReasonController.java:64",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.java:46",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnReasonController.java:53",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.java:38",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnReasonController.java:42",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.java:31",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnReasonController.java:31",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.java:25",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnApplyController.java:55",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnApplyServiceImpl.java:76",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnApplyController.java:63",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnApplyServiceImpl.java:71",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsOrderReturnApplyController.java:44",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnApplyServiceImpl.java:38",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com.macro.mall.controller.OmsOrderReturnApplyController.java:34",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsOrderReturnApplyServiceImpl.java:31",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/controller/OmsCompanyAddressController.java:32",
+        "Privileged Operation": "com/macro/mall/service/impl/OmsCompanyAddressServiceImpl.java:22",
+        "Permission Check": "com/macro/mall/security/component/JwtAuthenticationTokenFilter.java:45",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/portal/controller/UmsMemberController.java:52",
+        "Privileged Operation": "com/macro/mall/portal/service/impl/UmsMemberServiceImpl.java:63",
+        "Permission Check": "com/macro/mall/portal/service/impl/UmsMemberServiceImpl.java:60",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "mall",
+        "Path Entry": "com/macro/mall/portal/controller/UmsMemberController.java:86",
+        "Privileged Operation": "com/macro/mall/portal/service/impl/UmsMemberServiceImpl.java:134",
+        "Permission Check": "com/macro/mall/portal/service/impl/UmsMemberServiceImpl.java:125",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "lamp-cloud",
+        "Path Entry": "lamp-base/lamp-base-controller/src/main/java/top/tangyh/lamp/base/controller/user/BaseEmployeeController.java:69",
+        "Privileged Operation": "lamp-base/lamp-base-biz/src/main/java/top/tangyh/lamp/base/biz/user/BaseEmployeeBiz.java:86",
+        "Permission Check": "lamp-gateway/lamp-gateway-server/src/main/java/top/tangyh/lamp/gateway/filter/AuthenticationSaInterceptor.java:102",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "jcalaBlog",
+        "Path Entry": "src/main/java/me/jcala/blog/controller/FontEndCtrl.java:46",
+        "Privileged Operation": "src/main/java/me/jcala/blog/service/ProjectSerImpl.java:35",
+        "Permission Check": "src/main/java/me/jcala/blog/interceptor/UserSecurityInterceptor.java:20",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "jcalaBlog",
+        "Path Entry": "src/main/java/me/jcala/blog/controller/admin/InfoCtrl.java:33",
+        "Privileged Operation": "src/main/java/me/jcala/blog/service/InfoSerImpl.java:71",
+        "Permission Check": "src/main/java/me/jcala/blog/interceptor/UserSecurityInterceptor.java:20",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "jcalaBlog",
+        "Path Entry": "src/main/java/me/jcala/blog/controller/admin/InfoCtrl.java:33",
+        "Privileged Operation": "src/main/java/me/jcala/blog/service/InfoSerImpl.java:71",
+        "Permission Check": "src/main/java/me/jcala/blog/service/InfoSerImpl.java:83",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "jcalaBlog",
+        "Path Entry": "src/main/java/me/jcala/blog/controller/FontEndCtrl.java:100",
+        "Privileged Operation": "src/main/java/me/jcala/blog/service/InfoSerImpl.java:46",
+        "Permission Check": "src/main/java/me/jcala/blog/interceptor/UserSecurityInterceptor.java:20",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "jcalaBlog",
+        "Path Entry": "src/main/java/me/jcala/blog/controller/admin/InfoCtrl.java:61",
+        "Privileged Operation": "src/main/java/me/jcala/blog/service/InfoSerImpl.java:122",
+        "Permission Check": "src/main/java/me/jcala/blog/interceptor/UserSecurityInterceptor.java:20",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "jcalaBlog",
+        "Path Entry": "src/main/java/me/jcala/blog/controller/admin/InfoCtrl.java:55",
+        "Privileged Operation": "src/main/java/me/jcala/blog/service/InfoSerImpl.java:111",
+        "Permission Check": "src/main/java/me/jcala/blog/interceptor/UserSecurityInterceptor.java:20",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "CVE-2023-41046",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/edc52579eeaab1b4514785c134044671a1ecd839xwiki-platform-core/xwiki-platform-oldcore/src/main/java/com/xpn/xwiki/objects/classes/TextAreaClass.java:477",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2023-38494",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/metersphere/metersphere/commit/a23f75d93b666901fd148d834df9384f6f24cf28:framework/sdk-parent/sdk/src/main/java/io/metersphere/controller/BaseUserController.java:34",
+        "Type": "API-Check"
+    },
+    {
+        "Project": "CVE-2023-37910",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/d7720219d60d7201c696c3196c9d4a86d0881325:xwiki-platform-core/xwiki-platform-attachment/xwiki-platform-attachment-api/src/main/java/org/xwiki/attachment/internal/refactoring/job/MoveAttachmentJob.java:133",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2023-36820",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/micronaut-projects/micronaut-security/commit/9728b925221a0d87798ccf250657a3c214b7e980:security-oauth2/src/main/java/io/micronaut/security/oauth2/client/IdTokenClaimsValidator.java:200",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2023-34465",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/8910b8857d3442d2e8142f655fdc0512930354d1:xwiki-platform-core/xwiki-platform-security/xwiki-platform-security-authorization/xwiki-platform-security-authorization-bridge/src/main/java/org/xwiki/security/internal/DocumentInitializerRightsManager.java:82",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2022-41929",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/0b732f2ef0224e2aaf10e2e1ef48dbd3fb6e10cd:xwiki-platform-core/xwiki-platform-oldcore/src/main/java/com/xpn/xwiki/api/User.java:95",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2022-39302",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/Ree6-Applications/Ree6/commit/459b5bc24f0ea27e50031f563373926e94b9aa0a:src/main/java/de/presti/ree6/commands/impl/mod/Import.java:28",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2022-23621",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/df8bd49b5a4d87a427002c6535fb5b1746ff117a:xwiki-platform-core/xwiki-platform-legacy/xwiki-platform-legacy-oldcore/src/main/aspect/com/xpn/xwiki/api/XWikiCompatibilityAspect.aj:1213",
+        "Type": "Third-Party-Check"
+    },
+    {
+        "Project": "CVE-2022-23617",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/30c52b01559b8ef5ed1035dac7c34aaf805764d5:xwiki-platform-core/xwiki-platform-oldcore/src/main/java/com/xpn/xwiki/web/XWikiAction.java:1164",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2022-23615",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/7ab0fe7b96809c7a3881454147598d46a1c9bbbe:xwiki-platform-core/xwiki-platform-oldcore/src/main/java/com/xpn/xwiki/api/Document.java:2553",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2021-41189",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/DSpace/DSpace/commit/277b499a5cd3a4f5eb2370513a1b7e4ec2a6e041:dspace-api/src/main/java/org/dspace/eperson/GroupServiceImpl.java:744",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2021-32731",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/0cf716250b3645a5974c80d8336dcdf885749:xwiki-platform-core/xwiki-platform-administration/xwiki-platform-administration-test/xwiki-platform-administration-test-docker/src/test/it/org/xwiki/administration/test/ui/ResetPasswordIT.java:142",
+        "Type": "Third-Party-Check"
+    },
+    {
+        "Project": "CVE-2021-32620",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/xwiki/xwiki-platform/commit/f9a677408ffb06f309be46ef9d8df1915d9099a4:xwiki-platform-core/xwiki-platform-oldcore/src/test/java/com/xpn/xwiki/XWikiTest.java:584",
+        "Type": "SQL-Check"
+    },
+    {
+        "Project": "CVE-2021-21318",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/opencast/opencast/commit/b18c6a7f81f08ed14884592a6c14c9ab611ad450:modules/search-service-impl/src/main/java/org/opencastproject/search/impl/SearchServiceImpl.java:466",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2020-7692",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/googleapis/google-oauth-java-client/commit/13433cd7dd06267fc261f0b1d4764f8e3432c824:google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/AuthorizationCodeFlow.java:199",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2020-19005",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/94fzb/zrlog/commit/b2b4415e2e59b6f18b0a62b633e71c96d63c43ba:common/src/main/java/com/zrlog/web/util/PluginHelper.java:3",
+        "Type": "Third-Party-Check"
+    },
+    {
+        "Project": "CVE-2019-10648",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/robo-code/robocode/commit/836c84635e982e74f2f2771b2c8640c3a34221bd:robocode.host/src/main/java/net/sf/robocode/host/security/RobocodeSecurityManager.java:140",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2017-2611",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/97a61a9fe55f4c16168c123f98301a5173b9fa86:core/src/main/java/jenkins/model/Jenkins.java:3632",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2017-2609",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/13905d8224899ba7332fe9af4e330ea96a2ae319:test/src/test/java/hudson/search/SearchTest.java:408",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2017-2606",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/09cfbc9cd5c9df7c763bc976b7f5c51266b63719:core/src/main/java/jenkins/model/Jenkins.java:1483",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2017-2603",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/3cd946cbef82c6da5ccccf3890d0ae4e091c4265:core/src/main/java/hudson/slaves/OfflineCause.java:164",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2017-2600",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/0f92cd08a19207de2cceb6a2f4e3e9f92fdc0899:core/src/main/java/hudson/model/Computer.java:1075",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2017-2599",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/4ed5c850b6855ab064a66d02fb338f366853ce89:core/src/main/java/hudson/model/Items.java:454",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2014-2068",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/0530a6645aac10fec005614211660e98db44b5eb:core/src/main/java/hudson/util/RemotingDiagnostics.java:205",
+        "Type": "Third-Party-Check"
+    },
+    {
+        "Project": "CVE-2014-2064",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/fbf96734470caba9364f04e0b77b0bae7293a1ec:core/src/main/java/hudson/security/HudsonPrivateSecurityRealm.java:178",
+        "Type": "IF-Check"
+    },
+    {
+        "Project": "CVE-2014-2058",
+        "Path Entry": "",
+        "Privileged Operation": "",
+        "Permission Check": "https://github.com/jenkinsci/jenkins/commit/b6b2a367a7976be80a799c6a49fa6c58d778b50e:test/src/test/java/hudson/tasks/BuildTriggerTest.java:147",
+        "Type": "SQL-Check"
+    }
+]
